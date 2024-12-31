@@ -12,5 +12,5 @@ http:
       timeout: 10
 script-providers:
   IPA-Installer:
-    url: https://raw.githubusercontent.com/NobyDa/Script/master/IPA-Installer/IPA-Installer.js
+    url: https://github.com/helmet101/scripting/raw/refs/heads/main/IPA-Installer.js
     interval: 86400
