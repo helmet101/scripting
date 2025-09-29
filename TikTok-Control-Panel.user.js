@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Our TikTok Control Panel
+// @name        TikTok Control Panel
 // @name:es     Nuestro Panel de Control para TikTok
 // @name:en     Our TikTok Control Panel
 // @namespace   Our private space on TikTok.
@@ -10,13 +10,13 @@
 // @grant       GM_setValue
 // @grant       GM_addStyle
 // @version     9.4 (Rhythm Control)
-// @author      Anna (originals by Margu, @dmtri)
+// @author      helmet101
 // @description The ultimate tool with an adaptive theme and video loop control.
 // @description:es Herramienta definitiva con tema adaptable y control de bucles de video.
 // @description:en The ultimate tool with an adaptive theme and video loop control.
 // @license     MIT
-// @downloadURL https://update.greasyfork.org/scripts/549628/El%20Nostre%20Tauler%20de%20Control%20per%20a%20TikTok.user.js
-// @updateURL https://update.greasyfork.org/scripts/549628/El%20Nostre%20Tauler%20de%20Control%20per%20a%20TikTok.meta.js
+// @downloadURL https://github.com/helmet101/scripting/blob/8e70bcd88d86c30e51d00b96270ebc0c019e73af/TikTok-Control-Panel.user.js
+// @updateURL https://github.com/helmet101/scripting/blob/8e70bcd88d86c30e51d00b96270ebc0c019e73af/TikTok-Control-Panel.user.js
 // ==/UserScript==
 
 (function() {
